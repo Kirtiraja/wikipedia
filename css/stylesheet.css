@@ -2,11 +2,10 @@ h4 {
   border: .5px solid gray;
   padding: 4px;
 }
-
 ul.nav {
   float:right;
 }
-
+}
 div.col-md-7 {
   background-color: #f5fffa;
   border: 1px solid black;
@@ -20,5 +19,11 @@ div.col-md-5 {
     border: 1px solid black;
 }
 div.col-md-5 h4 {
-  background-color: #cedff2;
+  background-color: #cedff2
+}
+div.col-md-3.25 h3 {
+  text-align: center;
+}
+div.col-md-3.25 p {
+  text-align: center;
 }
