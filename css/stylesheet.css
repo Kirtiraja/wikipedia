@@ -1,0 +1,16 @@
+h4 {
+  border: .5px solid gray;
+  padding: 4px;
+}
+
+ul.nav {
+  float:right;
+}
+
+div.col-md-7 {
+  border: 1px solid black;
+}
+
+div.col-md-5 {
+    border: 1px solid black;
+}
